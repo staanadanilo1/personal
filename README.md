@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @llnikkoll
+- 👋 Hi, I’m Danilo Sta. Ana
 - 👀 I’m interested in anything
-- 🌱 I’m currently learning (I wont answer this now 'cause until now I am deciding)
+- 🌱 I’m currently learning Bachelor's Degree in Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-llnikkoll/llnikkoll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+staanadanilo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
